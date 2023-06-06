@@ -177,6 +177,9 @@ img{
     .main p.pa{
         text-align: center;
     }
+    .nav ul li a{
+        font-size: 14px;
+    }
     }
 
     
