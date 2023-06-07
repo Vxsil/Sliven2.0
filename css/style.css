@@ -185,7 +185,7 @@ img{
     .container{
         display:grid;
         grid-template-columns: repeat(5,1fr) ;
-        grid-template-rows: 54px 44px 1fr 50px;
+        grid-template-rows: 55px 55px 1fr 50px;
         grid-template-areas:
         "header header header header header"
         "nav nav nav nav nav"
